@@ -4,7 +4,7 @@ Ce projet est une version enrichie et personnalisée du jeu "John Lemon's Haunte
 ## 👨‍💻 Membres du projet
 
 - Samy  – [GitHub](https://github.com/samy530)  
-- Slimane – [GitHub](https://github.com/slimane-hll)  
+- Slimane (TL) – [GitHub](https://github.com/slimane-hll)  
 - Amar – [GitHub](https://github.com/AmarMeb)  
 - Abdennour  
 - Sadek
